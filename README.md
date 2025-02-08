@@ -16,9 +16,6 @@ HTML (Structure)
 CSS (Styling)
 JavaScript (Functionality & Logic)
 📂 Project Structure
-bash
-Copy
-Edit
 /calorie-counter
 │── index.html        # Main HTML file
 │── styles.css        # Styling and layout
@@ -32,9 +29,6 @@ The app will display the remaining calories and indicate if you are in a deficit
 🖥️ Live Demo
 If you plan to host this project, add the link here:
 🔗 Live Demo (Replace with your deployed link if available)
-
-📌 Screenshots
-(Add screenshots of the project if necessary.)
 
 💡 Future Enhancements
 ✅ Save entries to local storage
